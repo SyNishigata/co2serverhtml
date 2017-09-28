@@ -1,0 +1,32 @@
+<?php
+$url_index 									= "index.php";
+$url_error		 							= "error.php";
+$url_what_is		 						= "what-is.php";
+$url_our_team 								= "our-team.php";
+$url_car_library							= "car-library.php";
+$url_tree_library 							= "tree-library.php";
+$url_sign_up 								= "sign-up.php";
+$url_login 									= "login.php";
+$url_account_details						= "account-details.php";
+$url_exit									= "exit.php";
+$url_recover_password						= "recover-password.php";
+$url_emissions_food							= "emissions-food.php";
+$url_emissions_food_insert					= "emissions-food-insert.php";
+$url_emissions_food_delete					= "emissions-food-delete.php";
+$url_emissions_index						= "emissions.php";
+$url_emissions_home_water					= "emissions-home-water.php";
+$url_emissions_home_water_insert			= "emissions-home-water-insert.php";
+$url_emissions_home_water_delete			= "emissions-home-water-delete.php";
+$url_emissions_home_gas						= "emissions-home-gas.php";
+$url_emissions_home_gas_insert				= "emissions-home-gas-insert.php";
+$url_emissions_home_gas_delete				= "emissions-home-gas-delete.php";
+$url_emissions_home_fuel					= "emissions-home-fuel.php";
+$url_emissions_home_fuel_insert				= "emissions-home-fuel-insert.php";
+$url_emissions_home_fuel_delete				= "emissions-home-fuel-delete.php";
+$url_emissions_home_electric				= "emissions-home-electric.php";
+$url_emissions_home_electric_insert			= "emissions-home-electric-insert.php";
+$url_emissions_home_electric_delete			= "emissions-home-electric-delete.php";
+$url_emissions_travel_motorcycle			= "emissions-travel-motorcycle.php";
+$url_emissions_travel_motorcycle_insert		= "emissions-travel-motorcycle-insert.php";
+$url_emissions_travel_motorcycle_delete		= "emissions-travel-motorcycle-delete.php";
+?>
